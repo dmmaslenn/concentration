@@ -1,5 +1,6 @@
 # concentration
-IOS game where you need to find cards with matching images
+IOS game where you need to find cards with matching images. New Year edition.
+
 ![alt text](https://github.com/dmmaslenn/concentration/blob/master/concentration_example1.png)
 ![alt text](https://github.com/dmmaslenn/concentration/blob/master/concentration_example2.png)
 ![alt text](https://github.com/dmmaslenn/concentration/blob/master/concentration_example3.png)
